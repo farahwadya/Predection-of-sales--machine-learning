@@ -44,7 +44,9 @@ This indicates that the Random Forest model provides the best generalization per
 
 ## . Linear Regression Coefficients
 
-Plot: <img width="640" height="470" alt="لينير ريغريشن" src="https://github.com/user-attachments/assets/bf98d389-f82e-4d8c-9bdd-28456937b3d3" />
+Plot:
+
+<img width="640" height="470" alt="لينير ريغريشن" src="https://github.com/user-attachments/assets/bf98d389-f82e-4d8c-9bdd-28456937b3d3" />
 
 
 Interpretation:
@@ -61,6 +63,7 @@ Note: Positive coefficients indicate that an increase in the feature increases s
 2. Tree-Based Model Feature Importances
 
 Plot:
+
 <img width="976" height="547" alt="راندوم فوريست" src="https://github.com/user-attachments/assets/67a5d1b0-3057-4e9d-8295-33f2b8cd0088" />
 
 Interpretation:
