@@ -1,5 +1,10 @@
 # Predection-of-sales--machine-learning
 machine learning project that used to predict the sales based on many features `Item_Fat_Content, Outlet_Size, Outlet_Location_Type, Outlet_Type
+## Dataset:
+source: 
+shape:
+features:
+
 ## Fetaure exploration
 1. **Average sales by oulet location and size:** <br>
 <img width="704" height="547" alt="download" src="https://github.com/user-attachments/assets/e64ac2b4-50a8-4da1-a02a-736871b511a6" /> <br>
